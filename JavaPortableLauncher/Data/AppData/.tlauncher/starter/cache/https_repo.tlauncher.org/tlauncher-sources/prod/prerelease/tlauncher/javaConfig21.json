@@ -1,0 +1,98 @@
+{
+  "jvms": {
+    "MACOSX": {
+      "arm": {
+        "jre_default": {
+          "jreDirectoryName": "jre-21.0.8-macOS-arm.jre_temp",
+          "repositories": [
+            "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+          ],
+          "resources": [
+            {
+              "sha1": "6ae263ad56a3d5e1813c8a26d98fb36ecdc8b031",
+              "size": 72825138,
+              "path": "jre-21.0.8-macOS-arm.jre.zip",
+              "relativeUrl": "jres_default/macosx/arm/jre-21.0.8-macOS-arm.jre.zip",
+              "executable": false,
+              "link": ""
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      },
+      "x64": {
+        "jre_default": {
+          "jreDirectoryName": "jre-21.0.8-macOS-x64.jre_temp",
+          "repositories": [
+            "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+          ],
+          "resources": [
+            {
+              "sha1": "065f1b2b3af4b381064b57b88a01695c5973f2bd",
+              "size": 74686694,
+              "path": "jre-21.0.8-macOS-x64.jre.zip",
+              "relativeUrl": "jres_default/macosx/x64/jre-21.0.8-macOS-x64.jre.zip",
+              "executable": false,
+              "link": ""
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    },
+    "WINDOWS": {
+      "x64": {
+        "jre_default": {
+          "jreDirectoryName": "jre-21.0.61-windows-x64",
+          "repositories": [
+            "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+          ],
+          "resources": [
+            {
+              "sha1": "5d5aedd52a9adccd253548715b7d909af51b3c94",
+              "size": 73301929,
+              "path": "jre-21.0.61-windows-x64.zip",
+              "relativeUrl": "jres_default/windows/x64/jre-21.0.61-windows-x64.zip",
+              "executable": false,
+              "link": ""
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    },
+    "LINUX": {
+      "x64": {
+        "jre_default": {
+          "jreDirectoryName": "jre-21.0.6-linux-x64",
+          "repositories": [
+            "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+            "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+            "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+          ],
+          "resources": [
+            {
+              "sha1": "372ba0132dc462d7f8cba4a97343473e9558a7da",
+              "size": 82895943,
+              "path": "jre-21.0.6-linux-x64.zip",
+              "relativeUrl": "jres_default/linux/x64/jre-21.0.6-linux-x64.zip",
+              "executable": false,
+              "link": ""
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    }
+  }
+}

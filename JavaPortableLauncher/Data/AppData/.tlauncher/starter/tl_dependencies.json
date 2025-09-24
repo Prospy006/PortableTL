@@ -1,0 +1,56 @@
+{
+	"libraries": [
+		{
+			"name": "Commons-compress, commons-lang3, fluent-hc",
+			"link": "https://commons.apache.org/"
+		},
+		{
+			"name": "desktop-core,<br>desktop-common-util",
+			"link": "https://github.com/gdevby/desktop-starter-launch-update-bootstrap"
+		},
+		{
+			"name": "Discord Java library",
+			"link": "https://github.com/discord/discord-rpc"
+		},
+		{
+			"name": "dnsjava",
+			"link": "https://github.com/dnsjava/dnsjava"
+		},
+		{
+			"name": "guice-assistedinject",
+			"link": "https://github.com/google/guice"
+		},
+		{
+			"name": "jopt-simple",
+			"link": "https://github.com/jopt-simple/jopt-simple"
+		},
+		{
+			"name": "junit",
+			"link": "http://junit.org"
+		},
+		{
+			"name": "junrar",
+			"link": "https://github.com/junrar/junrar"
+		},
+		{
+			"name": "log4j",
+			"link": "http://logging.apache.org/log4j/1.2/"
+		},
+		{
+			"name": "MinecraftServerPing",
+			"link": "https://github.com/jamietech/MinecraftServerPing"
+		},
+		{
+			"name": "projectlombok",
+			"link": "https://projectlombok.org"
+		},
+		{
+			"name": "slf4j-log4j12",
+			"link": "http://www.slf4j.org"
+		},
+		{
+			"name": "xz",
+			"link": "http://tukaani.org/xz/java.html"
+		}
+	]
+}

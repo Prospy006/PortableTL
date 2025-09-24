@@ -1,0 +1,110 @@
+{
+  "comment": "Config file for desktop-starter example",
+  "appName": "tlauncher",
+  "appVersion": "2.9339",
+  "mainClass": "org.tlauncher.tlauncher.rmo.TLauncher",
+  "appArguments": [
+    "-starterConfig\u003d${starterConfig}",
+    "-requireUpdate\u003d${requireUpdate}",
+    "-currentAppVersion\u003d${currentAppVersion}",
+    "-starterDomainAvailability\u003d${starterDomainAvailability}",
+    "-country\u003d${country}"
+  ],
+  "jvmArguments": [
+    "-Dsun.java2d.uiScale.enabled\u003dfalse",
+    "-Xmx1024m",
+    "-Dfile.encoding\u003dUTF8",
+    "-Djava.net.preferIPv4Stack\u003dtrue",
+    "--add-opens\u003djava.base/java.lang\u003dALL-UNNAMED",
+    "--add-opens\u003djava.base/java.time\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.awt\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/sun.awt.image\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/sun.java2d\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.awt.color\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.awt.image\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED",
+    "--add-opens\u003djava.base/java.util.regex\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/javax.swing\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.beans\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/com.sun.webkit.network\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/javafx.scene.web\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/com.sun.webkit\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/com.sun.webkit.event\u003dALL-UNNAMED"
+  ],
+  "appFileRepo": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "38fcaf6a007a9a804aa213c29d10b9f69a6c28be",
+        "size": 4895461,
+        "path": "original-TLauncher-2.9339.jar",
+        "relativeUrl": "2.9339/original-TLauncher-2.9339.jar",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appResources": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "2102bd10390253a3ba4acf6d75a578d2e4631b9a",
+        "size": 18174,
+        "path": "resources.json",
+        "relativeUrl": "2.9339/resources.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appDependencies": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "165a497399fb88e6097dfd405df98f8777a3669e",
+        "size": 17795,
+        "path": "dependencies.json",
+        "relativeUrl": "2.9339/dependencies.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "javaRepo": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+      "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "e125872e1e273e860fa276904a6ceeb5189a04eb",
+        "size": 3699,
+        "path": "javaConfig21.json",
+        "relativeUrl": "javaConfig21.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  }
+}

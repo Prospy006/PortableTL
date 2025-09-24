@@ -1,0 +1,627 @@
+{
+  "repositories": [
+    "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+    "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+    "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+    "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+  ],
+  "resources": [
+    {
+      "sha1": "df6433d14711bc7e0c58be8549e5cd6ac41919b2",
+      "size": 1041179,
+      "path": "css/arabianStyles.css",
+      "relativeUrl": "2.9339/css/arabianStyles.css",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "214165dd145848438b40307f6b86531dcb9c6e8c",
+      "size": 451,
+      "path": "css/smplBrow.css",
+      "relativeUrl": "2.9339/css/smplBrow.css",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2cbc443ca117278e8025d2ca15607e52848bf8cb",
+      "size": 1040955,
+      "path": "css/style.css",
+      "relativeUrl": "2.9339/css/style.css",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "922c8819eea3221d2c0d36071558707168d36fcb",
+      "size": 304,
+      "path": "fix_log4j/1.12.json",
+      "relativeUrl": "2.9339/fix_log4j/1.12.json",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "dfd076b6e8492a83e39c00fcdea9dbe282e3dba7",
+      "size": 300,
+      "path": "fix_log4j/1.7.10.json",
+      "relativeUrl": "2.9339/fix_log4j/1.7.10.json",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "648e0eb592eae75cef41d959df4d40f729d1fcf6",
+      "size": 821,
+      "path": "images/set-mod5.png",
+      "relativeUrl": "2.9339/images/set-mod5.png",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "78b0c04a50449fb52b72de32c5f01f74799d71f4",
+      "size": 9761,
+      "path": "inner.tlauncher.properties",
+      "relativeUrl": "2.9339/inner.tlauncher.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4cef7d2c8baebefd0f92bbf059836504ec5547b2",
+      "size": 108374,
+      "path": "lang/loc/ar.properties",
+      "relativeUrl": "2.9339/lang/loc/ar.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "b983917e4de931e4f754774264e9ec828e2a204b",
+      "size": 90911,
+      "path": "lang/loc/az.properties",
+      "relativeUrl": "2.9339/lang/loc/az.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "fa09a9864045d4f9f7559dae8ab4cf535f0dceb7",
+      "size": 125449,
+      "path": "lang/loc/bg.properties",
+      "relativeUrl": "2.9339/lang/loc/bg.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d2252129140db05247892933a18c5136e95c0518",
+      "size": 160347,
+      "path": "lang/loc/bn.properties",
+      "relativeUrl": "2.9339/lang/loc/bn.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "25afea61f608715175d240aab73a1cf914bbfded",
+      "size": 84308,
+      "path": "lang/loc/bs_Latn.properties",
+      "relativeUrl": "2.9339/lang/loc/bs_Latn.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "86d6c9c6852dbf9b0236189da70655687e6ef0f8",
+      "size": 85174,
+      "path": "lang/loc/cs.properties",
+      "relativeUrl": "2.9339/lang/loc/cs.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "0d2741a42f88fe2085058e4971bc9a912b9a538f",
+      "size": 83371,
+      "path": "lang/loc/da.properties",
+      "relativeUrl": "2.9339/lang/loc/da.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "7850b1317ec1f73cdd73e48a81f985e4b66aaa58",
+      "size": 93504,
+      "path": "lang/loc/de.properties",
+      "relativeUrl": "2.9339/lang/loc/de.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "8b4fc13b9981d8e8a9f137f13840453e9d9eaecd",
+      "size": 136425,
+      "path": "lang/loc/el.properties",
+      "relativeUrl": "2.9339/lang/loc/el.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "0e812492533186276b59480a8caaeb919bf6015f",
+      "size": 81927,
+      "path": "lang/loc/en.properties",
+      "relativeUrl": "2.9339/lang/loc/en.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "03855c03f3c3b4d1ae89d72ae985a77860403de8",
+      "size": 90714,
+      "path": "lang/loc/es.properties",
+      "relativeUrl": "2.9339/lang/loc/es.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "ed3192ae5d6f31983a6f0b5d44e01bb04594dff1",
+      "size": 82033,
+      "path": "lang/loc/et.properties",
+      "relativeUrl": "2.9339/lang/loc/et.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "655797c5b6696fdd18f66d812bd216de93fc1174",
+      "size": 112886,
+      "path": "lang/loc/fa.properties",
+      "relativeUrl": "2.9339/lang/loc/fa.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5c515540172c04d845f7177e7763286b6c8a10d9",
+      "size": 83833,
+      "path": "lang/loc/fi.properties",
+      "relativeUrl": "2.9339/lang/loc/fi.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "cebba623fec143fcc4a8f347f1f3b4e690c7286d",
+      "size": 89923,
+      "path": "lang/loc/fil.properties",
+      "relativeUrl": "2.9339/lang/loc/fil.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d90630dd6f7f7dab6a68d5b2ba5bdf47f3d469d3",
+      "size": 93903,
+      "path": "lang/loc/fr.properties",
+      "relativeUrl": "2.9339/lang/loc/fr.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "9ceb1ee9fc9864f1bf4a43177feac873ac14bae1",
+      "size": 50601,
+      "path": "lang/loc/gu.properties",
+      "relativeUrl": "2.9339/lang/loc/gu.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5d5bc0287c652f9d14a73a733980262e529a0d95",
+      "size": 98559,
+      "path": "lang/loc/he.properties",
+      "relativeUrl": "2.9339/lang/loc/he.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "0d324a06f4d899d0a6b66d39191e37a9f196ce3e",
+      "size": 157695,
+      "path": "lang/loc/hi.properties",
+      "relativeUrl": "2.9339/lang/loc/hi.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "0e55c2f51097eb3ecbcdc757471d207e47e184cc",
+      "size": 84339,
+      "path": "lang/loc/hr.properties",
+      "relativeUrl": "2.9339/lang/loc/hr.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e305193bf6408377e31f39ae35a8abd96b21a75f",
+      "size": 91267,
+      "path": "lang/loc/hu.properties",
+      "relativeUrl": "2.9339/lang/loc/hu.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "dec37fe6a1485d1911695fff3e82ac1cd8a0fa62",
+      "size": 84409,
+      "path": "lang/loc/id.properties",
+      "relativeUrl": "2.9339/lang/loc/id.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "0409a81bbafbf54bbac7b363485d98bec3c53e6b",
+      "size": 40985,
+      "path": "lang/loc/is.properties",
+      "relativeUrl": "2.9339/lang/loc/is.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "433fa96634550f119305f83884c46b60bc9d5a2a",
+      "size": 87884,
+      "path": "lang/loc/it.properties",
+      "relativeUrl": "2.9339/lang/loc/it.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "81d9a557f86c8a618b64186fe1ab357ef99e1add",
+      "size": 104602,
+      "path": "lang/loc/ja.properties",
+      "relativeUrl": "2.9339/lang/loc/ja.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d111cd520275641aef23d4756b47f372717b0877",
+      "size": 164847,
+      "path": "lang/loc/ka.properties",
+      "relativeUrl": "2.9339/lang/loc/ka.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "db161c58055436d2754db4798048ee65e46437dd",
+      "size": 48948,
+      "path": "lang/loc/kk.properties",
+      "relativeUrl": "2.9339/lang/loc/kk.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "6e396054cd83e65665caee85557864960d45bf64",
+      "size": 78919,
+      "path": "lang/loc/km.properties",
+      "relativeUrl": "2.9339/lang/loc/km.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "3231027ffa267915d1a84498814cbd006255d429",
+      "size": 91035,
+      "path": "lang/loc/ko.properties",
+      "relativeUrl": "2.9339/lang/loc/ko.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "8534b088e40720cdfda0632f8b3d15ecdcf3b46b",
+      "size": 113005,
+      "path": "lang/loc/lo.properties",
+      "relativeUrl": "2.9339/lang/loc/lo.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4568e1b986369b8e5df60e2c3bf8e62c4d628aeb",
+      "size": 87739,
+      "path": "lang/loc/lt.properties",
+      "relativeUrl": "2.9339/lang/loc/lt.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "1cb51211ff303db5031c8dc0a2e945690ec0593b",
+      "size": 87483,
+      "path": "lang/loc/lv.properties",
+      "relativeUrl": "2.9339/lang/loc/lv.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "cadea7c5ea87a034eb52cc307f97d5267dc70b1e",
+      "size": 39188,
+      "path": "lang/loc/mg.properties",
+      "relativeUrl": "2.9339/lang/loc/mg.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4c55c2ea38d7ba0ed7209ba63d5640bcad4983ce",
+      "size": 127768,
+      "path": "lang/loc/mk.properties",
+      "relativeUrl": "2.9339/lang/loc/mk.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "adb872553ee743cf511bc4de3906f17b7633c261",
+      "size": 147745,
+      "path": "lang/loc/ml.properties",
+      "relativeUrl": "2.9339/lang/loc/ml.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5ec8f4d04cd4c7956f154bf3fb515ecf1f8ac51a",
+      "size": 124161,
+      "path": "lang/loc/mn.properties",
+      "relativeUrl": "2.9339/lang/loc/mn.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "8764c93ae5dc05fce2eb099687f6034099807fd8",
+      "size": 84894,
+      "path": "lang/loc/ms.properties",
+      "relativeUrl": "2.9339/lang/loc/ms.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "57043d5b2d4260564efab6dc053a2d6e78478861",
+      "size": 67616,
+      "path": "lang/loc/my.properties",
+      "relativeUrl": "2.9339/lang/loc/my.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "af76bbe0c7dd669fe36d6b1209ba76d570c5f44e",
+      "size": 84309,
+      "path": "lang/loc/nb_NO.properties",
+      "relativeUrl": "2.9339/lang/loc/nb_NO.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "ce17f07b89bab9ed7db57646f34a0087e4ba00af",
+      "size": 162869,
+      "path": "lang/loc/ne.properties",
+      "relativeUrl": "2.9339/lang/loc/ne.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "54ad6c0c842e1dae7ed62c5ef8272328269ae0f2",
+      "size": 87077,
+      "path": "lang/loc/nl.properties",
+      "relativeUrl": "2.9339/lang/loc/nl.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e298ab02c4f1a11f66dbcdca12403369cbc43c4d",
+      "size": 87243,
+      "path": "lang/loc/pl.properties",
+      "relativeUrl": "2.9339/lang/loc/pl.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "3552c9d0514683f617c533c34b8c31ff315e6f96",
+      "size": 41861,
+      "path": "lang/loc/ps.properties",
+      "relativeUrl": "2.9339/lang/loc/ps.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "6be28457aaff16c468b537b6688961e39ca48f00",
+      "size": 88351,
+      "path": "lang/loc/pt.properties",
+      "relativeUrl": "2.9339/lang/loc/pt.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "036007ca969eae4acad075050473887f1c7d2ae2",
+      "size": 91375,
+      "path": "lang/loc/ro.properties",
+      "relativeUrl": "2.9339/lang/loc/ro.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "15d8aa48ec74116b42f3d309ce8b71653899969e",
+      "size": 125679,
+      "path": "lang/loc/ru.properties",
+      "relativeUrl": "2.9339/lang/loc/ru.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2e04b587298fefa764014cd1dc5f158220856075",
+      "size": 148043,
+      "path": "lang/loc/si.properties",
+      "relativeUrl": "2.9339/lang/loc/si.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "546341cd936ff10ebae9b3b5a069b4b82bdb6bc9",
+      "size": 84666,
+      "path": "lang/loc/sk.properties",
+      "relativeUrl": "2.9339/lang/loc/sk.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "127cbb157be22c09c29cbb85b3f62971ba23c05f",
+      "size": 83039,
+      "path": "lang/loc/sl.properties",
+      "relativeUrl": "2.9339/lang/loc/sl.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e787af9a2b205ef35b0d038e82e1daa5caf026c4",
+      "size": 90489,
+      "path": "lang/loc/sq.properties",
+      "relativeUrl": "2.9339/lang/loc/sq.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5ead0cbacc54b1b3be5955c8f332e7ffec599352",
+      "size": 48316,
+      "path": "lang/loc/sr.properties",
+      "relativeUrl": "2.9339/lang/loc/sr.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2a6305bff768720fe2e998ac5efd0551e23cdb19",
+      "size": 121095,
+      "path": "lang/loc/sr_Cyrl.properties",
+      "relativeUrl": "2.9339/lang/loc/sr_Cyrl.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5c060901f2ec16bcafadeb05f4ac2d4f14277368",
+      "size": 89638,
+      "path": "lang/loc/sr_Latn.properties",
+      "relativeUrl": "2.9339/lang/loc/sr_Latn.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "ef1d2ebefe6f0c3e8d4dd55c60202a0b866a53cc",
+      "size": 181286,
+      "path": "lang/loc/ta.properties",
+      "relativeUrl": "2.9339/lang/loc/ta.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "f401bff23e37c177480f4c191b08ca0e2e6386b7",
+      "size": 171131,
+      "path": "lang/loc/te.properties",
+      "relativeUrl": "2.9339/lang/loc/te.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "841b1d31dfa0b0a0c650b543eebaad21c1f24e8d",
+      "size": 149286,
+      "path": "lang/loc/th.properties",
+      "relativeUrl": "2.9339/lang/loc/th.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "b7ece0a3fec1f86f907050f0a0d4aa05ed091768",
+      "size": 86886,
+      "path": "lang/loc/tr.properties",
+      "relativeUrl": "2.9339/lang/loc/tr.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "1b43cc32da9c2426e5b9b43255f15707cea9d285",
+      "size": 124030,
+      "path": "lang/loc/ua.properties",
+      "relativeUrl": "2.9339/lang/loc/ua.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "96abc474fb607ecc5e350c5ad35fc6e766be01fc",
+      "size": 119188,
+      "path": "lang/loc/ur.properties",
+      "relativeUrl": "2.9339/lang/loc/ur.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5ba333d1e54155a37d0a5ca057e214a3168e7b90",
+      "size": 89072,
+      "path": "lang/loc/uz.properties",
+      "relativeUrl": "2.9339/lang/loc/uz.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "ac27c604d304ffec24ca656fb05dc6758e7c0cf5",
+      "size": 90436,
+      "path": "lang/loc/uz_Latn.properties",
+      "relativeUrl": "2.9339/lang/loc/uz_Latn.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "911a1bd926aae194ef669e79915dfa970a0887bc",
+      "size": 98199,
+      "path": "lang/loc/vi.properties",
+      "relativeUrl": "2.9339/lang/loc/vi.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5eda5c9d9792841f784f946700587d88923d6398",
+      "size": 76758,
+      "path": "lang/loc/zh_CN.properties",
+      "relativeUrl": "2.9339/lang/loc/zh_CN.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "dc41630c3a2d03c2115b90b29596fbedf65d4332",
+      "size": 76865,
+      "path": "lang/loc/zh_TW.properties",
+      "relativeUrl": "2.9339/lang/loc/zh_TW.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "8e358549bbb32269c2c190ab87548dbd2537c270",
+      "size": 2933,
+      "path": "org/tlauncher/tlauncher/rmo/bottom-bar.png",
+      "relativeUrl": "2.9339/org/tlauncher/tlauncher/rmo/bottom-bar.png",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "46e6b71059f1e22ad3e6325de56a6c21ff71aebe",
+      "size": 8464,
+      "path": "org/tlauncher/tlauncher/rmo/tlauncher.png",
+      "relativeUrl": "2.9339/org/tlauncher/tlauncher/rmo/tlauncher.png",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2df95a675fbc47c56513a7a2f9299b1fec3a7e71",
+      "size": 6492,
+      "path": "play_game_server",
+      "relativeUrl": "2.9339/play_game_server",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2c34e9fdd3cc033a31b26d443b76c643013f0565",
+      "size": 703,
+      "path": "removedFolders.txt",
+      "relativeUrl": "2.9339/removedFolders.txt",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4ed33eda241913d23320e4805eaef98dcd6474cd",
+      "size": 9697,
+      "path": "signatures.json",
+      "relativeUrl": "2.9339/signatures.json",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "54c12373677ab04e84cc2e7cb1930649ba38a952",
+      "size": 1216,
+      "path": "tl_dependencies.json",
+      "relativeUrl": "2.9339/tl_dependencies.json",
+      "executable": false,
+      "link": ""
+    }
+  ],
+  "remoteServerSHA1": false
+}

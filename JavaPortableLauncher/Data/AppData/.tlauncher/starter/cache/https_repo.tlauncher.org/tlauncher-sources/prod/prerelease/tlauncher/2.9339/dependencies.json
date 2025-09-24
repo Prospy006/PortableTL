@@ -1,0 +1,547 @@
+{
+  "repositories": [
+    "https://repo.tlauncher.org/tlauncher-sources/prod/prerelease/tlauncher/",
+    "https://repo.fastrepo.org/tlauncher-sources/prod/prerelease/tlauncher/",
+    "http://advancedrepository.net/tlauncher-sources/prod/prerelease/tlauncher/",
+    "https://repo.tlauncher.ru/tlauncher-sources/prod/prerelease/tlauncher/"
+  ],
+  "resources": [
+    {
+      "sha1": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+      "size": 4467,
+      "path": "dependencies/aopalliance-1.0.jar",
+      "relativeUrl": "2.9339/dependencies/aopalliance-1.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5",
+      "size": 208835,
+      "path": "dependencies/checker-qual-3.12.0.jar",
+      "relativeUrl": "2.9339/dependencies/checker-qual-3.12.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "9ce04e34240f674bc72680f8b843b1457383161a",
+      "size": 263965,
+      "path": "dependencies/commons-codec-1.9.jar",
+      "relativeUrl": "2.9339/dependencies/commons-codec-1.9.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4af2060ea9b0c8b74f1854c6cafe4d43cfc161fc",
+      "size": 1062555,
+      "path": "dependencies/commons-compress-1.23.0.jar",
+      "relativeUrl": "2.9339/dependencies/commons-compress-1.23.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "a2503f302b11ebde7ebc3df41daebe0e4eea3689",
+      "size": 327135,
+      "path": "dependencies/commons-io-2.11.0.jar",
+      "relativeUrl": "2.9339/dependencies/commons-io-2.11.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5fe28b9518e58819180a43a850fbc0dd24b7c050",
+      "size": 434678,
+      "path": "dependencies/commons-lang3-3.4.jar",
+      "relativeUrl": "2.9339/dependencies/commons-lang3-3.4.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+      "size": 61829,
+      "path": "dependencies/commons-logging-1.2.jar",
+      "relativeUrl": "2.9339/dependencies/commons-logging-1.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "7d4cf5231d46c8524f9b9ed75bb2d1c69ab93322",
+      "size": 44598,
+      "path": "dependencies/commons-logging-api-1.1.jar",
+      "relativeUrl": "2.9339/dependencies/commons-logging-api-1.1.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "b5af3b9c96b060d77c68fa5ac9384b402dd58013",
+      "size": 415578,
+      "path": "dependencies/commons-vfs2-2.0.jar",
+      "relativeUrl": "2.9339/dependencies/commons-vfs2-2.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2e72902d939d4dd38765c80b9f3461503b1245f2",
+      "size": 44706,
+      "path": "dependencies/desktop-common-util-1.258.jar",
+      "relativeUrl": "2.9339/dependencies/desktop-common-util-1.258.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "950419dcf0a3e7d716b5bc7fe94e2afc79c4faa9",
+      "size": 29089,
+      "path": "dependencies/DiscordIPC-0.5.jar",
+      "relativeUrl": "2.9339/dependencies/DiscordIPC-0.5.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "eed8a2cbf56cc60d07a189a429ead3067564193c",
+      "size": 314639,
+      "path": "dependencies/dnsjava-2.1.8.jar",
+      "relativeUrl": "2.9339/dependencies/dnsjava-2.1.8.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "89b684257096f548fa39a7df9fdaa409d4d4df91",
+      "size": 16017,
+      "path": "dependencies/error_prone_annotations-2.18.0.jar",
+      "relativeUrl": "2.9339/dependencies/error_prone_annotations-2.18.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "1dcf1de382a0bf95a3d8b0849546c88bac1292c9",
+      "size": 4617,
+      "path": "dependencies/failureaccess-1.0.1.jar",
+      "relativeUrl": "2.9339/dependencies/failureaccess-1.0.1.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "7bfdfa49de6d720ad3c8cedb6a5238eec564dfed",
+      "size": 31293,
+      "path": "dependencies/fluent-hc-4.5.2.jar",
+      "relativeUrl": "2.9339/dependencies/fluent-hc-4.5.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "431fc3cbc0ff81abdbfde070062741089c3ba874",
+      "size": 242047,
+      "path": "dependencies/gson-2.8.8.jar",
+      "relativeUrl": "2.9339/dependencies/gson-2.8.8.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "119ea2b2bc205b138974d351777b20f02b92704b",
+      "size": 2974216,
+      "path": "dependencies/guava-31.0.1-jre.jar",
+      "relativeUrl": "2.9339/dependencies/guava-31.0.1-jre.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "ccc518677b9367d45f99dfa592c9b039f07687d3",
+      "size": 801785,
+      "path": "dependencies/guice-7.0.0.jar",
+      "relativeUrl": "2.9339/dependencies/guice-7.0.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d44246b00dec7e08eb35325ee5669f6ed878eee9",
+      "size": 51224,
+      "path": "dependencies/guice-assistedinject-7.0.0.jar",
+      "relativeUrl": "2.9339/dependencies/guice-assistedinject-7.0.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "7bf306b5c79ca669d0ec737f8308028e92257596",
+      "size": 58199,
+      "path": "dependencies/http-download-1.258.jar",
+      "relativeUrl": "2.9339/dependencies/http-download-1.258.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "733db77aa8d9b2d68015189df76ab06304406e50",
+      "size": 736658,
+      "path": "dependencies/httpclient-4.5.2.jar",
+      "relativeUrl": "2.9339/dependencies/httpclient-4.5.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "b31526a230871fbe285fbcbe2813f9c0839ae9b0",
+      "size": 326724,
+      "path": "dependencies/httpcore-4.4.4.jar",
+      "relativeUrl": "2.9339/dependencies/httpcore-4.4.4.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "ba035118bc8bac37d7eff77700720999acd9986d",
+      "size": 8781,
+      "path": "dependencies/j2objc-annotations-1.3.jar",
+      "relativeUrl": "2.9339/dependencies/j2objc-annotations-1.3.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4c28afe1991a941d7702fe1362c365f0a8641d1e",
+      "size": 10681,
+      "path": "dependencies/jakarta.inject-api-2.0.1.jar",
+      "relativeUrl": "2.9339/dependencies/jakarta.inject-api-2.0.1.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "1abc0ceb22d0434806a9501eff9e63ec0cfda25c",
+      "size": 753980,
+      "path": "dependencies/javafx-base-21.0.6-win.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-base-21.0.6-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "01806c828970201b55f8ca9232d217885cae74ad",
+      "size": 302,
+      "path": "dependencies/javafx-base-21.0.6.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-base-21.0.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4ee4d509d5c67b8b9626e1432fbe11448cfce3d3",
+      "size": 2585171,
+      "path": "dependencies/javafx-controls-21.0.6-win.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-controls-21.0.6-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e14050160dfda963e5dcb6476c1219f3821063b4",
+      "size": 306,
+      "path": "dependencies/javafx-controls-21.0.6.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-controls-21.0.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "8c95a983a02e5211f6808d2bd775139e09669e3a",
+      "size": 5942324,
+      "path": "dependencies/javafx-graphics-21.0.6-win.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-graphics-21.0.6-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "a3df82ba349421a8922dc5024677ffc2f2604349",
+      "size": 306,
+      "path": "dependencies/javafx-graphics-21.0.6.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-graphics-21.0.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "30057dfe64f6403777c2e24ef3d7f2b6b25d52dd",
+      "size": 1123076,
+      "path": "dependencies/javafx-media-21.0.6-win.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-media-21.0.6-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "1aab5a0e186c554a36940e67c5cce9008e7dd5e2",
+      "size": 303,
+      "path": "dependencies/javafx-media-21.0.6.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-media-21.0.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4105619a59e125cf3adca34ad1f7356e64e0377d",
+      "size": 89706,
+      "path": "dependencies/javafx-swing-21.0.6-win.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-swing-21.0.6-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "33d89baf6082b4ad287e5d3009f1231544c56f48",
+      "size": 303,
+      "path": "dependencies/javafx-swing-21.0.6.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-swing-21.0.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "909b48389d7670583b390a6622e1bb3056982bbd",
+      "size": 32784821,
+      "path": "dependencies/javafx-web-21.0.6-win.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-web-21.0.6-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "503cbc827da1db4b9ebd3d1b8656ed8a4d3ef01d",
+      "size": 301,
+      "path": "dependencies/javafx-web-21.0.6.jar",
+      "relativeUrl": "2.9339/dependencies/javafx-web-21.0.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "934c04d3cfef185a8008e7bf34331b79730a9d43",
+      "size": 26586,
+      "path": "dependencies/javax.annotation-api-1.3.2.jar",
+      "relativeUrl": "2.9339/dependencies/javax.annotation-api-1.3.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "99f802e0cb3e953ba3d6e698795c4aeb98d37c48",
+      "size": 125632,
+      "path": "dependencies/jaxb-api-2.3.0.jar",
+      "relativeUrl": "2.9339/dependencies/jaxb-api-2.3.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d044c784e41d026778693fb44a8026c1fd9a7506",
+      "size": 255502,
+      "path": "dependencies/jaxb-core-2.3.0.jar",
+      "relativeUrl": "2.9339/dependencies/jaxb-core-2.3.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "3a3c6a62719d967175b76b63925f1fb495f11437",
+      "size": 963660,
+      "path": "dependencies/jaxb-impl-2.3.0.jar",
+      "relativeUrl": "2.9339/dependencies/jaxb-impl-2.3.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "f8c32b13ff142a513eeb5b6330b1588dcb2c0461",
+      "size": 16515,
+      "path": "dependencies/jcl-over-slf4j-1.7.25.jar",
+      "relativeUrl": "2.9339/dependencies/jcl-over-slf4j-1.7.25.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c",
+      "size": 78146,
+      "path": "dependencies/jopt-simple-5.0.4.jar",
+      "relativeUrl": "2.9339/dependencies/jopt-simple-5.0.4.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "7a0d4aca76513d8ce81f9b044ce8126b84809ad8",
+      "size": 72591,
+      "path": "dependencies/json-20230227.jar",
+      "relativeUrl": "2.9339/dependencies/json-20230227.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d",
+      "size": 19936,
+      "path": "dependencies/jsr305-3.0.2.jar",
+      "relativeUrl": "2.9339/dependencies/jsr305-3.0.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "a9ebe1e6fda50b3e9dd3cb23e279d078ee7364fe",
+      "size": 438503,
+      "path": "dependencies/junixsocket-common-2.6.2.jar",
+      "relativeUrl": "2.9339/dependencies/junixsocket-common-2.6.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "c6fb012a0e21bb2fd46b6209987cd375e6b43a61",
+      "size": 684928,
+      "path": "dependencies/junixsocket-native-common-2.6.2.jar",
+      "relativeUrl": "2.9339/dependencies/junixsocket-native-common-2.6.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "18cc717b85af0b12ba922abf415c2ff4716f8219",
+      "size": 155205,
+      "path": "dependencies/junrar-0.7.jar",
+      "relativeUrl": "2.9339/dependencies/junrar-0.7.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "b421526c5f297295adef1c886e5246c39d4ac629",
+      "size": 2199,
+      "path": "dependencies/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "relativeUrl": "2.9339/dependencies/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5af35056b4d257e4b64b9e8069c0746e8b08629f",
+      "size": 489884,
+      "path": "dependencies/log4j-1.2.17.jar",
+      "relativeUrl": "2.9339/dependencies/log4j-1.2.17.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "f69d97ef3335c6ab82fc21dfb77ac613f90c1221",
+      "size": 233809,
+      "path": "dependencies/logback-classic-1.2.10.jar",
+      "relativeUrl": "2.9339/dependencies/logback-classic-1.2.10.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5328406bfcae7bcdcc86810fcb2920d2c297170d",
+      "size": 454203,
+      "path": "dependencies/logback-core-1.2.10.jar",
+      "relativeUrl": "2.9339/dependencies/logback-core-1.2.10.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "f195ee86e6c896ea47a1d39defbe20eb59cd149d",
+      "size": 2011339,
+      "path": "dependencies/lombok-1.18.30.jar",
+      "relativeUrl": "2.9339/dependencies/lombok-1.18.30.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e294693ce217bd6f470b728127854e6ca787fd29",
+      "size": 94421,
+      "path": "dependencies/maven-scm-api-1.4.jar",
+      "relativeUrl": "2.9339/dependencies/maven-scm-api-1.4.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "54bc1dc24c5d205b4d251a83f4ea63808c21a628",
+      "size": 40066,
+      "path": "dependencies/maven-scm-provider-svn-commons-1.4.jar",
+      "relativeUrl": "2.9339/dependencies/maven-scm-provider-svn-commons-1.4.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "b3213b40157b701ba079b738baac391e41418c18",
+      "size": 69858,
+      "path": "dependencies/maven-scm-provider-svnexe-1.4.jar",
+      "relativeUrl": "2.9339/dependencies/maven-scm-provider-svnexe-1.4.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "23072dc571416352d63a1f62bf7e77bf07f5194d",
+      "size": 10077,
+      "path": "dependencies/MinecraftServerPing-1.0.2.jar",
+      "relativeUrl": "2.9339/dependencies/MinecraftServerPing-1.0.2.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "cbb65da96b8a4f0abfc8b6ff2f800f51572990a4",
+      "size": 35580160,
+      "path": "dependencies/mockserver-netty-no-dependencies-5.14.0.jar",
+      "relativeUrl": "2.9339/dependencies/mockserver-netty-no-dependencies-5.14.0.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "64922fa303646cbfc1093ff3da8517a8fcc9ff10",
+      "size": 104144,
+      "path": "dependencies/modpack-dto-2.278.jar",
+      "relativeUrl": "2.9339/dependencies/modpack-dto-2.278.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "fec2bd7610fd7edd61c019a9cdb9aff45e488b73",
+      "size": 2194161,
+      "path": "dependencies/picture-bundle-3.72.jar",
+      "relativeUrl": "2.9339/dependencies/picture-bundle-3.72.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "8fb6b798a4036048b3005e058553bf21a87802ed",
+      "size": 250546,
+      "path": "dependencies/plexus-utils-1.5.6.jar",
+      "relativeUrl": "2.9339/dependencies/plexus-utils-1.5.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "973df2b78b67bcd3144c3dbbb88da691065a3f8d",
+      "size": 25429,
+      "path": "dependencies/regexp-1.3.jar",
+      "relativeUrl": "2.9339/dependencies/regexp-1.3.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "3349b9a5ebad7e155efb886e9ff3a6cd06f25bdf",
+      "size": 23494,
+      "path": "dependencies/skin-api-1.7.jar",
+      "relativeUrl": "2.9339/dependencies/skin-api-1.7.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "da76ca59f6a57ee3102f8f9bd9cee742973efa8a",
+      "size": 41203,
+      "path": "dependencies/slf4j-api-1.7.25.jar",
+      "relativeUrl": "2.9339/dependencies/slf4j-api-1.7.25.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "9d5ba6e2bfe06bf8bf430cce3aa63c0babf863c7",
+      "size": 7018,
+      "path": "dependencies/statistics-dto-1.73.jar",
+      "relativeUrl": "2.9339/dependencies/statistics-dto-1.73.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d88c5a0be891dfc743968eaa31b62159fa9e82fe",
+      "size": 3314004,
+      "path": "dependencies/tlauncher-resource-1.6.jar",
+      "relativeUrl": "2.9339/dependencies/tlauncher-resource-1.6.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "36091aa01e875af2806106c0334863e9bf5c7e17",
+      "size": 22418,
+      "path": "dependencies/url-cache-1.1.jar",
+      "relativeUrl": "2.9339/dependencies/url-cache-1.1.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "1ea4bec1a921180164852c65006d928617bd2caf",
+      "size": 116013,
+      "path": "dependencies/xz-1.9.jar",
+      "relativeUrl": "2.9339/dependencies/xz-1.9.jar",
+      "executable": false,
+      "link": ""
+    }
+  ],
+  "remoteServerSHA1": false
+}

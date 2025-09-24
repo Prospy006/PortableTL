@@ -1,0 +1,96 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.9339 PRERELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Sep 24, 2025, 6:23:08 PM
+Running folder D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\starter
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 11 10.0, Java 21.0.6, jvm bit x64, 7965 MB RAM
+java path=D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\starter\jre_default\jre-21.0.61-windows-x64\bin\javaw.exe
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+-------------------------------------------------------
+Selected locale: en
+default protocol handler for protocol {} not available http
+[Loading] LOADING_CONSOLE
+check internet connection https://mps.tlauncher.org/api/check.bin timeout 1500 ms
+check internet connection https://securelogger.net/check.bin timeout 1500 ms
+check internet connection https://securelogger.top/check.bin timeout 1500 ms
+check internet connection https://res.tlauncher.ru/check.bin timeout 1500 ms
+check internet connection https://mps.fastrepo.org/api/check.bin timeout 1500 ms
+check internet connection https://mps.tlauncher.ru/api/check.bin timeout 1500 ms
+check internet connection https://res.tlauncher.org/check.bin timeout 1500 ms
+[Downloader2] Loaded configuration: good
+[Browser] Loading resources...
+check internet connection https://mps.tlauncher.org/api/check.bin timeout 4500 ms
+check internet connection https://mps.tlauncher.ru/api/check.bin timeout 4500 ms
+check internet connection https://securelogger.top/check.bin timeout 4500 ms
+check internet connection https://mps.fastrepo.org/api/check.bin timeout 4500 ms
+check internet connection https://res.tlauncher.ru/check.bin timeout 4500 ms
+check internet connection https://securelogger.net/check.bin timeout 4500 ms
+check internet connection https://res.tlauncher.org/check.bin timeout 4500 ms
+passed res.tlauncher.org within 2620 ms
+check internet connection https://rescl.tlauncher.org/check.bin timeout 1500 ms
+passed securelogger.net within 2682 ms
+check internet connection https://ruzone.securelogger.top/check.bin timeout 1500 ms
+passed rescl.tlauncher.org within 162 ms
+passed res.tlauncher.ru within 3048 ms
+passed securelogger.top within 3064 ms
+passed mps.tlauncher.org within 3084 ms
+passed mps.fastrepo.org within 3094 ms
+passed mps.tlauncher.ru within 3109 ms
+[Browser] Cleaning up after loading:
+Starting garbage collector: 50 / 69 MB
+Garbage collector completed: 30 / 69 MB
+do head request -> https://repo.tlauncher.org/update/downloads/configs/pages/index_en.html RequestMetadata(lastModified=Sat, 13 Sep 2025 00:36:51 GMT, eTag=68c4bca3-f4e8, sha1=a487444484ea04c0d4eec861e56aad20b11dc571) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\pages\index_en.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.minecraft
+[ProfileManager] Refreshing profiles from: D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.minecraft\TlauncherProfiles.json
+passed ruzone.securelogger.top within 966 ms
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+profiles is saved successfully
+[Loading] LOADING_WINDOW
+do head request -> https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json RequestMetadata(lastModified=Wed, 10 Sep 2025 08:06:39 GMT, eTag=68c1318f-52547, sha1=397f61a80212a8fa0c73b74d0a82c1430186d028) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\libraries\org\tlauncher\authlib\libraries-1.7.json
+do head request -> https://repo.tlauncher.org/update/downloads/configs/inner_servers-1.1.json RequestMetadata(lastModified=Sun, 21 Sep 2025 21:30:41 GMT, eTag=68d06e81-1652, sha1=e99a6a34b12d41efd51ed01928d6b259a9684a45) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\inner_servers-1.1.json
+[Browser] Initializing...
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[JFXStartPageLoader]  start load page: file:///D:/Apps/THE%20MINECRAFT%20FILES/PortableTL/JavaPortableLauncher/Data/AppData/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs/pages/index_en.html
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  succeeded load page: file:///D:/Apps/THE%20MINECRAFT%20FILES/PortableTL/JavaPortableLauncher/Data/AppData/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs/pages/index_en.html during 1
+[Browser@686739828] Loaded successfully: "file:///D:/Apps/THE%20MINECRAFT%20FILES/PortableTL/JavaPortableLauncher/Data/AppData/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs/pages/index_en.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[BrowserSimplePanel]	 constructor
+[BrowserSimplePanel]	 constructor
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+Started! (14577 ms.)
+[Loading] SUCCESS
+[TLauncher] starter can be closed
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/additional_assets-1.1.json RequestMetadata(lastModified=Tue, 20 May 2025 05:40:15 GMT, eTag=682c15bf-2fb63, sha1=ce6a8f0ee2eda2df06f02778dc16fddb71bb30e3) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\additional_assets-1.1.json
+[TLauncher] show tlauncher!!!
+Searching for IPC: \\?\pipe\discord-ipc-0
+discrord setting status problem: java.io.FileNotFoundException: \\?\pipe\discord-ipc-0 (The system cannot find the file specified)
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/version_manifest.json RequestMetadata(lastModified=Sun, 17 Aug 2025 13:13:43 GMT, eTag=68a1d587-b2fa, sha1=72bfc6a7f8fd8e9cf20bd13243d1fa549e2324df) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\version_manifest.json
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/version_manifest.json RequestMetadata(lastModified=Sun, 17 Aug 2025 13:45:56 GMT, eTag=68a1dd14-305c, sha1=0bd55d0e95ea1a6155939152c6e698a3843b325c) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\skin\versions\version_manifest.json
+do head request -> https://launchermeta.mojang.com/mc/game/version_manifest.json RequestMetadata(lastModified=Tue, 23 Sep 2025 15:22:09 GMT, eTag=0x8DDFAB4F6D329D4, sha1=ba42d99f4f9d1e00fe602601a171c3dbc4ea022f) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_launchermeta.mojang.com\mc\game\version_manifest.json
+[ExtraVersionList] Got in 318 ms
+[SkinVersionList] Got in 368 ms
+[OfficialVersionList] Got in 595 ms
+[VersionManager] Versions has been refreshed (647 ms)
+do head request -> https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json RequestMetadata(lastModified=Thu, 14 Aug 2025 13:15:00 GMT, eTag=689de154-7135, sha1=32bf790daa57a1b62a705b9ecfd18d057f50c44a) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\lch\additional_hot_servers-1.0.json
+do head request -> https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json RequestMetadata(lastModified=Tue, 19 Aug 2025 23:20:25 GMT, eTag=68a506b9-188e8, sha1=6516ff356a2da1d36ce830355fde242fbb5cd221) local file D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\lch\servers\hot_servers-1.0.json
+run server on  37842
+default protocol handler for protocol {} not available https
+[Double running] clear time label
+Good bye!
+[Double running] clear time label
+flush now
