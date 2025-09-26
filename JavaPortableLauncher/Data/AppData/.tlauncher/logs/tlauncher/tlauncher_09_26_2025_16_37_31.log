@@ -1,0 +1,103 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.9339 PRERELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Sep 26, 2025, 4:37:36 PM
+Running folder D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\starter
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 11 10.0, Java 21.0.6, jvm bit x64, 7965 MB RAM
+java path=D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\starter\jre_default\jre-21.0.61-windows-x64\bin\javaw.exe
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+-------------------------------------------------------
+Selected locale: en
+default protocol handler for protocol {} not available http
+check internet connection https://securelogger.net/check.bin timeout 1500 ms
+check internet connection https://mps.fastrepo.org/api/check.bin timeout 1500 ms
+check internet connection https://mps.tlauncher.ru/api/check.bin timeout 1500 ms
+check internet connection https://mps.tlauncher.org/api/check.bin timeout 1500 ms
+check internet connection https://securelogger.top/check.bin timeout 1500 ms
+check internet connection https://res.tlauncher.org/check.bin timeout 1500 ms
+check internet connection https://res.tlauncher.ru/check.bin timeout 1500 ms
+[Loading] LOADING_CONSOLE
+passed securelogger.net within 1525 ms
+check internet connection https://ruzone.securelogger.top/check.bin timeout 1500 ms
+passed res.tlauncher.org within 1531 ms
+check internet connection https://rescl.tlauncher.org/check.bin timeout 1500 ms
+passed rescl.tlauncher.org within 121 ms
+[Downloader2] Loaded configuration: good
+passed ruzone.securelogger.top within 858 ms
+check internet connection https://mps.tlauncher.org/api/check.bin timeout 4500 ms
+check internet connection https://mps.tlauncher.ru/api/check.bin timeout 4500 ms
+check internet connection https://securelogger.top/check.bin timeout 4500 ms
+check internet connection https://res.tlauncher.ru/check.bin timeout 4500 ms
+check internet connection https://mps.fastrepo.org/api/check.bin timeout 4500 ms
+passed securelogger.top within 2911 ms
+passed mps.tlauncher.ru within 2976 ms
+passed res.tlauncher.ru within 3002 ms
+passed mps.tlauncher.org within 3090 ms
+[Browser] Loading resources...
+passed mps.fastrepo.org within 3284 ms
+[Browser] Cleaning up after loading:
+Starting garbage collector: 54 / 64 MB
+Garbage collector completed: 30 / 64 MB
+do head request -> https://repo.tlauncher.org/update/downloads/configs/pages/index_en.html RequestMetadata(lastModified=Sat, 13 Sep 2025 00:36:51 GMT, eTag=68c4bca3-f4e8, sha1=a487444484ea04c0d4eec861e56aad20b11dc571) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\pages\index_en.html
+[Loading] LOADING_MANAGERS
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[LocalVersionList] Base directory: D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.minecraft
+[ProfileManager] Refreshing profiles from: D:\Apps\THE MINECRAFT FILES\PortableTL\JavaPortableLauncher\Data\AppData\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+profiles is saved successfully
+[Loading] LOADING_WINDOW
+[Browser] Initializing...
+do head request -> https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json RequestMetadata(lastModified=Wed, 10 Sep 2025 08:06:39 GMT, eTag=68c1318f-52547, sha1=397f61a80212a8fa0c73b74d0a82c1430186d028) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\libraries\org\tlauncher\authlib\libraries-1.7.json
+do head request -> https://repo.tlauncher.org/update/downloads/configs/inner_servers-1.1.json RequestMetadata(lastModified=Sun, 21 Sep 2025 21:30:41 GMT, eTag=68d06e81-1652, sha1=e99a6a34b12d41efd51ed01928d6b259a9684a45) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\inner_servers-1.1.json
+do request https://repo.tlauncher.org/update/downloads/configs/inner_servers-1.1.json, saved to D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\inner_servers-1.1.json
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[JFXStartPageLoader]  start load page: file:///D:/Github%20Repos/prospy006/PortableTL/JavaPortableLauncher/Data/AppData/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs/pages/index_en.html
+[JFXStartPageLoader]  succeeded load page: file:///D:/Github%20Repos/prospy006/PortableTL/JavaPortableLauncher/Data/AppData/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs/pages/index_en.html during 1
+[Browser@1054335150] Loaded successfully: "file:///D:/Github%20Repos/prospy006/PortableTL/JavaPortableLauncher/Data/AppData/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs/pages/index_en.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+[BrowserSimplePanel]	 constructor
+[BrowserSimplePanel]	 constructor
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+Started! (15672 ms.)
+[Loading] SUCCESS
+[TLauncher] starter can be closed
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/additional_assets-1.1.json RequestMetadata(lastModified=Tue, 20 May 2025 05:40:15 GMT, eTag=682c15bf-2fb63, sha1=ce6a8f0ee2eda2df06f02778dc16fddb71bb30e3) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\additional_assets-1.1.json
+[TLauncher] show tlauncher!!!
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/version_manifest.json RequestMetadata(lastModified=Sun, 17 Aug 2025 13:45:56 GMT, eTag=68a1dd14-305c, sha1=0bd55d0e95ea1a6155939152c6e698a3843b325c) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\skin\versions\version_manifest.json
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/version_manifest.json RequestMetadata(lastModified=Sun, 17 Aug 2025 13:13:43 GMT, eTag=68a1d587-b2fa, sha1=72bfc6a7f8fd8e9cf20bd13243d1fa549e2324df) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\version_manifest.json
+do head request -> https://launchermeta.mojang.com/mc/game/version_manifest.json RequestMetadata(lastModified=Tue, 23 Sep 2025 15:22:09 GMT, eTag=0x8DDFAB4F6D329D4, sha1=ba42d99f4f9d1e00fe602601a171c3dbc4ea022f) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_launchermeta.mojang.com\mc\game\version_manifest.json
+do request https://launchermeta.mojang.com/mc/game/version_manifest.json, saved to D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_launchermeta.mojang.com\mc\game\version_manifest.json
+Searching for IPC: \\?\pipe\discord-ipc-0
+Sent packet: Pkt:HANDSHAKE{"v":1,"nonce":"dbae72e2-fbd7-4d02-9139-bd08446d4138","client_id":"1140558605771350016"}
+[SkinVersionList] Got in 347 ms
+[ExtraVersionList] Got in 407 ms
+[OfficialVersionList] Got in 708 ms
+[VersionManager] Versions has been refreshed (828 ms)
+Received packet: Pkt:FRAME{"evt":"READY","data":{"v":1,"config":{"environment":"production","api_endpoint":"//discord.com/api","cdn_host":"cdn.discordapp.com"},"user":{"premium_type":0,"global_name":"Prospy006","bot":false,"avatar_decoration_data":null,"flags":112,"id":"754592344522752080","avatar":"ec9a7f2166e9134b2a1bd6556263988d","username":"prospy006","discriminator":"0"}},"cmd":"DISPATCH","nonce":null}
+Found a valid client (ANY) with packet: Pkt:FRAME{"evt":"READY","data":{"v":1,"config":{"environment":"production","api_endpoint":"//discord.com/api","cdn_host":"cdn.discordapp.com"},"user":{"premium_type":0,"global_name":"Prospy006","bot":false,"avatar_decoration_data":null,"flags":112,"id":"754592344522752080","avatar":"ec9a7f2166e9134b2a1bd6556263988d","username":"prospy006","discriminator":"0"}},"cmd":"DISPATCH","nonce":null}
+Found preferred client: ANY
+Client is now connected and ready!
+Sending RichPresence to discord: {"assets":{"large_image":"fav-icon-512"},"instance":false,"timestamps":{"start":1758884872},"details":"Views the home page","secrets":{}}
+Sent packet: Pkt:FRAME{"args":{"activity":{"assets":{"large_image":"fav-icon-512"},"instance":false,"timestamps":{"start":1758884872},"details":"Views the home page","secrets":{}},"pid":9600},"cmd":"SET_ACTIVITY","nonce":"d8cc9421-073b-45f4-b971-06176583be81"}
+Starting IPCClient reading thread!
+Received packet: Pkt:FRAME{"evt":null,"data":{"metadata":{},"assets":{"large_image":"1142030771398385665"},"timestamps":{"start":1758884872000},"name":"TLauncher","details":"Views the home page","type":0,"secrets":{},"application_id":"1140558605771350016","platform":"desktop"},"cmd":"SET_ACTIVITY","nonce":"d8cc9421-073b-45f4-b971-06176583be81"}
+do head request -> https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json RequestMetadata(lastModified=Thu, 14 Aug 2025 13:15:00 GMT, eTag=689de154-7135, sha1=32bf790daa57a1b62a705b9ecfd18d057f50c44a) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\lch\additional_hot_servers-1.0.json
+do head request -> https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json RequestMetadata(lastModified=Tue, 19 Aug 2025 23:20:25 GMT, eTag=68a506b9-188e8, sha1=6516ff356a2da1d36ce830355fde242fbb5cd221) local file D:\Github Repos\prospy006\PortableTL\JavaPortableLauncher\Data\AppData\.tlauncher\cache\https_repo.tlauncher.org\update\lch\servers\hot_servers-1.0.json
+run server on  37842
+default protocol handler for protocol {} not available https
+Good bye!
+[Double running] clear time label
+flush now
